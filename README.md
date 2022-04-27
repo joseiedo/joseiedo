@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/joseiedo/"><i>José Iêdo</i></a> :)</h1>
+  <h1 align="center">Olá! Meu nome é José Iêdo, acesse meu <a href="https://www.linkedin.com/in/joseiedo/"><i>LinkedIn</i></a> :)</h1>
   <p align="center">Atualmente estou cursando no 1º Período de Analise e Desenvolvimento de Sistemas na UNINTER. 
   <p align="center">Meu objetivo é ser um desenvolvedor Back-end, mas estou sempre me aventurando em outras tecnologias.
 
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/joseiedo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joseiedo&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseiedo&theme=dark&hide_border=false&&layout=compact"/>
   </a>
