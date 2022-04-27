@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá! Meu nome é José Iêdo, acesse meu <a href="https://www.linkedin.com/in/joseiedo/"><i>LinkedIn</i></a> :)</h1>
   <p align="center">Atualmente estou cursando no 1º Período de Analise e Desenvolvimento de Sistemas na UNINTER. 
-  <p align="center">Meu objetivo é ser um desenvolvedor Back-end, mas estou sempre me aventurando em outras tecnologias.
+  <p align="center">Meu objetivo é ser um desenvolvedor FullStack, mas estou sempre me aventurando em outras tecnologias.
 
   
 </div>
