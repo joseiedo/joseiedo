@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/joseiedo/"><i>José Iêdo</i></a> :)</h1>
   <p align="center">Atualmente estou cursando no 1º Período de Analise e Desenvolvimento de Sistemas na UNINTER. 
-  <p align="center">Meu objetivo é ser um desenvolvedor FullStack, mas estou sempre me aventurando em outras tecnologias.
+  <p align="center">Meu objetivo é ser um desenvolvedor FullStack, possuo conhecimentos em HTML, CSS e JavaScript. Além disso, estudo também Java e Flutter.
 
   
 </div>
@@ -13,12 +13,6 @@
 </div>
 
 <div align="center" valign="top"><br>
-
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-
 
 
 </div><br>
