@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/joseiedo/"><i>José Iêdo</i></a> :)</h1>
   <p align="center">Atualmente estou cursando no 1º Período de Analise e Desenvolvimento de Sistemas na UNINTER. 
-  <p align="center">Meu objetivo é ser um desenvolvedor FullStack, possuo conhecimentos em HTML, CSS e JavaScript. Além disso, estudo também Java e Flutter.
+  <p align="center">Meu objetivo é ser um desenvolvedor FullStack, possuo conhecimentos em HTML, CSS e JavaScript. Além disso, estudo também Flutter.
 
   
 </div>
