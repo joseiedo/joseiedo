@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/joseiedo/"><i>José Iêdo</i></a> :)</h1>
+  <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/joseiedo/">José Iêdo</a>.</h1>
 <div align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
