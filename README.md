@@ -7,7 +7,6 @@
 </div>
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseiedo&theme=github_dark&hide_border=false&&layout=compact"/>
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=joseiedo&&show_icons=true&theme=github_dark"/>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/joseiedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
