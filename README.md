@@ -31,13 +31,17 @@ I'm studying System Analysis and Development at Centro Universitário UNINTER
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/joseiedo"><img src="https://github-readme-stats.vercel.app/api?username=joseiedo&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="joseiedo's GitHub stats" /></a>
-<div align="left"> 
+<div align="left">
+ <a href="https://github.com/joseiedo/portfolio" target="_blank">
+  <img src="https://i.imgur.com/5DMdfBs.png" width="100px">
+</a>
 <a href="https://github.com/joseiedo/jogo-da-forca-alura" target="_blank"> 
 <img src="https://i.imgur.com/ERd2gNX.png" width="100px">
 </a>
 <a href="https://github.com/joseiedo/encriptador-alura" target="_blank"> 
 <img src="https://i.imgur.com/LVI3goy.png" width="100px">
 </a>
+
 
 </div>
 
