@@ -1,2 +1,2 @@
 ### José Iêdo
-<samp>Backend Developer | Java/Kotlin & Javascript/Typescript</samp>
+Backend Developer | Java/Kotlin & Javascript/Typescript
