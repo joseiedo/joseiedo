@@ -2,7 +2,7 @@ Software Engineer based in São Paulo, Brazil.
 
 * This GitHub is a Frankenstein lab, not a portfolio.
 * I work with web development, but whenever I feel like it, I build a PoC with a random goal, like this [spinning cube](https://github.com/joseiedo/spinning-cube/blob/main/cube.c).
-* I don't really have a preferred language. Life somehow kept putting me on the JVM path.
+* I don't really have a preferred programming language. Life somehow kept putting me on the JVM path.
 
 Open source
 
