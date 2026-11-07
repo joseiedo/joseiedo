@@ -7,5 +7,5 @@ Software Engineer based in São Paulo, Brazil.
 Open source
 
 * Added support for handling multiple different objects with the same `@SqsListener` using [`SqsHandler`](https://docs.awspring.io/spring-cloud-aws/docs/4.1.1/apidocs/io/awspring/cloud/sqs/annotation/SqsHandler.html).
-* Added native support for sending batches larger than 10 to [Spring Cloud AWS](https://github.com/awspring/spring-cloud-aws/pull/1659).
+* Added native support for sending batches larger than 10 to [Spring Cloud AWS](https://docs.awspring.io/spring-cloud-aws/docs/4.2.0/apidocs/io/awspring/cloud/sqs/operations/SqsTemplate.html).
 * Bothered folks by opening issues.
